@@ -10,7 +10,7 @@ A collaborative document editing tool built with React.js, MongoDB, Quill, and S
 - [Setup](#setup)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
+- [License](#license) 
 
 ## Overview
 

@@ -10,7 +10,7 @@ A collaborative document editing tool built with React.js, MongoDB, Quill, and S
 - [Setup](#setup)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license) 
+- [License](#license)      
 
 ## Overview
 
@@ -20,7 +20,7 @@ The Document Editing Tool is a web application that allows users to collaborativ
 
 - **Real-time collaboration:** Multiple users can edit a document simultaneously.
 - **Rich text editing:** Utilizes the Quill editor for a user-friendly editing experience.
-- **Persistent storage:** Documents are stored in MongoDB for easy retrieval and continued editing.
+- **Persistent storage:** Documents are stored in MongoDB for easy retrieval and continued editing..
 
 ## Technologies Used
 
